@@ -1,0 +1,78 @@
+body {
+  padding-top: 10px;
+}
+
+.contain{
+  margin: 5%;
+}
+
+.sidelinks{
+  margin: 5%;
+}
+
+.book-images {
+  background-color: white;
+  width: 450px;
+  height: 450px;
+  overflow: hidden;
+  position: relative;
+  float: left;
+}
+
+.books{
+  list-style: none;
+}
+
+.thumb {
+  float: left;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  height: 100px;
+  width: 100px;
+}
+
+.books li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}
+
+img.book {
+  float: left;
+  margin-right: 3em;
+  margin-bottom: 2em;
+  background-color: white;
+  padding: 2em;
+  height: 400px;
+  width: 400px;
+  display: none;
+}
+
+img.book:first-child {
+  display: block;
+}
+
+ul.info{
+  clear: both;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.info > li{
+  display: inline-block;
+  vertical-align: top;
+}
+
+ul.info > li > span{
+  font-weight: bold;
+  font-size: 2em;
+}
+
+ul.info dt {
+  font-weight: bold;
+}
+
+h1 {
+  border-bottom: 1px solid gray;
+}

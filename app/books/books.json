@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1", 
+        "imageUrl": "img/books/monk.jpeg", 
+        "name": "The Monk who sold his Ferrari", 
+        "snippet": "This is an inspiring story of Julian Mantle who is a filthy rich, high profile lawyer. He is obsessed with making money and is always surrounded by the best in terms of luxury. This posh lifestyle of this continues until one day a sudden heart attack results in everything taking a drastic turn. The book discusses his altered lifestyle following the heart attack. He turns towards living the simple life and goes on a spiritual journey to the Himalayas in India. He is taught the philosophies of the sages of Sivana on how to live a life of satisfaction, happiness and peace. These teachings not only change his life for the better, but will have an interesting and worthwhile effect on the reader. The book will give you an idea of the main strategies in life and is an inspirational guide to live a life of happiness. The story is narrated by Julian Mantle’s colleague in a conversational manner."
+    },  
+    {
+        "id": "3", 
+        "imageUrl": "img/books/stay.jpeg", 
+        "name": "Stay Hungry Stay Foolish", 
+        "snippet": "Following public demands after Steven D. Levitt's first foray into the economics of everything, Stephen J. Dubner revisits Levitt's theories on life, crime, wisdom and everything else under the sun. Levitt's studies link the questions which put drug lords in their mother's houses, how good parenting doesn't really influence education and how the Ku Klux Klan and real-estate agents are similar."
+    }
+]

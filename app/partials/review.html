@@ -1,0 +1,16 @@
+<h1>{{book.name}}</h1>
+
+<p>{{book.description}}</p>
+
+<ul class="info">
+  <li>
+    <span>Reviews</span><br>
+
+      <b>Comments</b>
+      	<ul>
+      		<li ng-repeat="comment in book.reviews.comments">{{comment}}</li>
+      	</ul>
+      <b>Rating : </b> {{book.reviews.rating}} stars
+
+  </li>
+</ul>
